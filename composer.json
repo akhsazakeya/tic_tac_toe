@@ -7,9 +7,9 @@
     ]
   },
   "require": {
-    "wp-cli/php-cli-tools": "^0.12.0"
+    "wp-cli/php-cli-tools": "^0.11.21"
   },
   "bin": [
-    "bin/tic-tac-toe.php"
+    "bin/start.php"
   ]
 }
