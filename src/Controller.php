@@ -1,6 +1,6 @@
 <?php
 
-namespace KirillZharkov\TicTacToe\Controller;
+namespace akhsazakeya\TicTacToe\Controller;
 
 use akhsazakeya\TicTacToe\View;
 
