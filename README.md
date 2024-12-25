@@ -52,7 +52,7 @@
 1. **Склонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/KirillZharkov/tic-tac-toe.git
+   git clone https://github.com/akhsazakeya/tic_tac_toe
    ```
 
 2. **Перейдите в каталог проекта**:
@@ -76,7 +76,7 @@
    - Или если ваш пакет опубликован на Packagist, установите его глобально:
 
    ```bash
-   composer global require KirillZharkov/tic-tac-toe
+   composer require akhsazakeya/tic-tac-toe
    ```
 
    - И затем выполните команду:
