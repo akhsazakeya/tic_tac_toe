@@ -1,5 +1,6 @@
 {
   "name": "akhsazakeya/tic-tac-toe",
+  "version": "1.2",
   "autoload": {
     "files": [
       "src/Controller.php",
